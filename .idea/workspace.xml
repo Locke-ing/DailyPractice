@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c04e665-5307-4507-a6aa-3010aeb9dc86" name="默认更改列表" comment="" />
+    <list default="true" id="a8df5cfb-0582-416e-9685-17c32e78437c" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1a3cO9WDD2lQ0Hm7CjH964j5oNh" />
+  <component name="ProjectId" id="1bhEnU8TEY8M3FxXAJuttpGn7qX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,18 +30,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
-  <component name="RunManager" selected="Application.ListPlusAB">
-    <configuration name="Beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapTest.Beads" />
-      <module name="20200404Test" />
+  <component name="RunManager" selected="Application.GradePoint">
+    <configuration name="DigitalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.DigitalSort" />
+      <module name="20200513Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMapTest.*" />
+          <option name="PATTERN" value="Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListPlusAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListTest.ListTest.ListPlusAB" />
-      <module name="20200404Test" />
+    <configuration name="GradePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.GradePoint" />
+      <module name="20200513Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListTest.ListTest.*" />
+          <option name="PATTERN" value="Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,10 +58,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="20200513Test" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheBestScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.TheBestScore" />
+      <module name="20200513Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.test1" />
+      <module name="20200513Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="20200513Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="20200513Test" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DigitalSort" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.TheBestScore" />
+      <item itemvalue="Application.GradePoint" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListPlusAB" />
-        <item itemvalue="Application.Beads" />
+        <item itemvalue="Application.GradePoint" />
+        <item itemvalue="Application.TheBestScore" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.DigitalSort" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -74,12 +163,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c04e665-5307-4507-a6aa-3010aeb9dc86" name="默认更改列表" comment="" />
-      <created>1585967683034</created>
+      <changelist id="a8df5cfb-0582-416e-9685-17c32e78437c" name="默认更改列表" comment="" />
+      <created>1589076091263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585967683034</updated>
-      <workItem from="1585967687642" duration="3628000" />
+      <updated>1589076091263</updated>
+      <workItem from="1589076101597" duration="15458000" />
+      <workItem from="1589344562081" duration="4673000" />
+      <workItem from="1589365904612" duration="211000" />
     </task>
     <servers />
   </component>
@@ -87,41 +178,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585970666263">
+    <state width="572" height="153" key="GridCell.Tab.0.bottom" timestamp="1589364611338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="467" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585970666263" />
-    <state x="396" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1585970277262">
+    <state width="572" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589364611338" />
+    <state width="572" height="153" key="GridCell.Tab.0.center" timestamp="1589364611337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="396" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585970277262" />
-    <state x="233" y="0" key="#项目结构" timestamp="1585967846538">
+    <state width="572" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589364611337" />
+    <state width="572" height="153" key="GridCell.Tab.0.left" timestamp="1589364611336">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#项目结构/0.0.1280.680@0.0.1280.680" timestamp="1585967846538" />
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1585971346052">
+    <state width="572" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589364611336" />
+    <state width="572" height="153" key="GridCell.Tab.0.right" timestamp="1589364611337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585971346052" />
-    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1585971346052">
+    <state width="572" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589364611337" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589366013543">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585971346052" />
-    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1585971346052">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585971346052" />
-    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1585971346052">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585971346052" />
-    <state x="371" y="94" width="538" height="500" key="extract.method.dialog" timestamp="1585968503939">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="371" y="94" width="538" height="500" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1585968503939" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585971066752">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585971066752" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589366013543" />
   </component>
 </project>
